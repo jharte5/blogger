@@ -1,9 +1,14 @@
 import React from 'react';
+import Blogs from './Blogs';
 
 
 
 const App = () =>{
-    return 'Hey'
+    return(
+        <div>
+            <Blogs />
+        </div>
+    )
 }
 
 export default App
