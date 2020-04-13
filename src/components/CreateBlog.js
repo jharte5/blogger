@@ -76,7 +76,7 @@ class CreateBlog extends Component{
                         </div>
                     </div>
                     <div className="equal width fields">
-                        <div className="field">
+                        <div className="field">  
                             <label>Article</label>
                             <div className="ui fluid input">
                                 <input 
